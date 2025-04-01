@@ -1,0 +1,13 @@
+This Python script is a simple expense tracker that allows users to manage their expenses using a CSV file. It provides the following functionalities:
+
+Add Expense – Users can input a date, category, and amount, which gets saved in expenses.csv.
+
+View Expenses – Displays all recorded expenses in a formatted list.
+
+Delete Expense – Allows users to remove an expense by selecting its number.
+
+Show Most Expensive Expense – Finds and displays the highest expense recorded.
+
+Show Total by Category – Summarizes total spending per category.
+
+Menu Interface – Users interact via a simple menu to choose actions.
